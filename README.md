@@ -14,12 +14,12 @@
  - Capacitive music keyboard
    Play music with flowers, feet, balloons, etc. make a music box or organ grinder.
 
- - Contact tag - Grounding input causes tone to sound and lights to cycle. Also toggles a digital output and drives
-   an optionally attached servo
+ - Contact tag - Grounding input causes tone to sound and lights to cycle. Also toggles a digital output on #6 and drives
+   an optionally attached servo on #12
 
  - Light tag - Light or laser causes tone to sound and lights to cycle. 
    Make your own flashlight "laser" tag, target game. Multiple units can be placed around room. Hitting the target 
-   also toggles a digital output and rives an optionally attached servo.
+   also toggles a digital output on #6 and rives an optionally attached servo on #12.
 
  - Light tag 2 - This light tag randomly turns leds to red for 2 seconds then turns off.
    Light must hit target within that time. Make your own flashlight "laser" tag, 
@@ -34,7 +34,8 @@
  - Tilt Control - built-in accelerometer is used to translate into left, right, up, and down arrows
    left and right buttons also polled as A and D keys
 
- - MicFFT - spectral analysis display of microphone input. Outputs information to external keyboard usb.
+ - MicFFT - spectral analysis display of microphone input. Outputs information to external keyboard usb. Also drives
+   a servo attached to #12
 
  To select a program function:
  1. Set switch #21 to the right to set the function. One of the Green LEDs should be lit.
