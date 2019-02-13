@@ -19,7 +19,7 @@
 
  - Light tag - Light or laser causes tone to sound and lights to cycle. 
    Make your own flashlight "laser" tag, target game. Multiple units can be placed around room. Hitting the target 
-   also toggles a digital output on #6 and rives an optionally attached servo on #12.
+   also toggles a digital output on #6 and drives an optionally attached servo on #12.
 
  - Light tag 2 - This light tag randomly turns leds to red for 2 seconds then turns off.
    Light must hit target within that time. Make your own flashlight "laser" tag, 
