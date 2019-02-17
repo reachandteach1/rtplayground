@@ -4,7 +4,10 @@
 
  See http:www.reachandteach.com/rtplayground for ideas and documentation
  Thanks to Tony diCola for the megademo code that the mode switching is based on.
- Thanks to Carter Nelson for Capacitive tone logic
+ Thanks to Carter Nelson for Capacitive tone logic.
+ 
+ If you need assistance setting up a Circuit Playground Classic and loading Arduino IDE to load this sketch, see the
+ instructions on the Adafruit website at https://learn.adafruit.com/introducing-circuit-playground/set-up-test-arduino.
 
  The following programs are built into this code (in order):
  - Rainbow cycling demo - Looks pretty
