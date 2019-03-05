@@ -51,7 +51,7 @@
  this. After selecting the program function as above, you can hold down button #4
  until you hear a beep. This will change the default program to the selected function.
 
- Keyboard emulation has also been added so some functions to send keystrokes to a USB attached computer
+ Keyboard emulation has also been added to some functions to send keystrokes to a USB attached computer
  to allow easy external score board logic, etc. using Scratch or other host computer interface
 
  Author: Derrick Kikuchi 
